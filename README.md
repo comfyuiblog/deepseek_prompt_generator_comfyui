@@ -18,6 +18,11 @@ Stable Diffusion Prompt Expansion using Deepseek API
 
 ## Installation
 
+https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/blob/main/v1-5-pruned-emaonly.ckpt 
+
+download v1-5-pruned-emaonly.ckpt and Save it into the comfyui/Models/checkpoint Folder
+
+
 Navigate to where you have installed ComfyUI. For example:
 
 ```shell
