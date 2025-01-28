@@ -3,11 +3,13 @@ You can run this locally or using API
 
 For Locally
 Download the Ollama 
+
 https://ollama.com/
+
 Download Deep Seek Local Model
 https://ollama.com/library/deepseek-r1
 
-FOR APT
+FOR API
 
 Stable Diffusion Prompt Expansion using Deepseek API
 
