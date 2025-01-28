@@ -1,4 +1,5 @@
-# Deepseek-comfyui-prompt-expansion
+# Deepseek Prompt Generator Comfyui
+
 You can run this locally or using API
 
 For Locally
