@@ -15,7 +15,12 @@ FOR API
 Stable Diffusion Prompt Expansion using Deepseek API
 
 - Create API key at https://platform.deepseek.com
-- Copy `config.ini.example` to `config.ini` and put the replicate key there. 
+- Copy `config.ini.example` to `config.ini` and put the replicate key there.
+
+## Guide
+
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/n4Ux9-BCmJk/maxresdefault.jpg)](http://www.youtube.com/watch?v=n4Ux9-BCmJk "DeepSeek AI in ComfyUI Workflow | Ultra-Realistic v2 with Ollama Local & Flux: Upscale")
+
 
 ## Installation
 
