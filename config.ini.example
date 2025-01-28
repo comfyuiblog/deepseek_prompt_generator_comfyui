@@ -1,0 +1,5 @@
+[API]
+DEEPSEEK_API_TOKEN = put-your-key-here-without-quotes
+
+[OLLAMA]
+HOST = http://localhost:11434
